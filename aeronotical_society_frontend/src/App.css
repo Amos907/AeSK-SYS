@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+.logo_wraper {
+  padding-left: 100px;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height:300px;
+  width:300px; 
+}
+
+.header{
+  font-family: 'Russo One', sans-serif;
+}
+ 
+ 

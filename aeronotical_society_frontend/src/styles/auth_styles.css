@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+ 
+.logo_wraper {
+    padding-left: 100px;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    height: 300px;
+    width: 300px;
+}
+
+.header {
+    font-family: 'Roborto', sans-serif;
+}
